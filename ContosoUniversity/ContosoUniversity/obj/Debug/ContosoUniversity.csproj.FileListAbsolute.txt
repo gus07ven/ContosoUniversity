@@ -120,3 +120,5 @@ C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\Cont
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
