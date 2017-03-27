@@ -125,3 +125,4 @@ C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\Cont
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\gustavo.arismendi\Source\Repos\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
